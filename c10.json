@@ -417,15 +417,6 @@
       "filterable": 1
     },
     {
-      "key": "jkunzy",
-      "name": "ikun资源",
-      "type": 1,
-      "api": "https://jkunzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "doudouzy",
       "name": "豆豆资源",
       "type": 1,
@@ -604,29 +595,6 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/pg.jar"
     },
     {
-      "key": "Youtube",
-      "name": "Youtube",
-      "type": 3,
-      "api": "csp_Youtube",
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "token": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/lib/token.json",
-        "json": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/json/youtube.json",
-        "type": "直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-        "proxy": "socks5://127.0.0.1:10172",
-        "keywords": "排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
-        "codecs": "",
-        "danmu": true
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.77
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/pg.jar"
-    },
-    {
       "key": "FirstAid",
       "name": "急救",
       "type": 3,
@@ -653,42 +621,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/js/lf_live.txt",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/pg.jar"
-    },
-    {
-      "key": "TGYunPanLocal",
-      "name": "TG频道搜索",
-      "type": 3,
-      "api": "csp_TGYunPanLocal",
-      "timeout": 120,
-      "ext": {
-        "token": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/lib/token.json",
-        "json": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/json/tgsearch.json",
-        "keywords": "名称,片名,推荐",
-        "tgsearch_url": "http://127.0.0.1:10199",
-        "tgsearch_media_url": "http://127.0.0.1:10199",
-        "channellist": "oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
-        "proxy": "proxy",
-        "danmu": true
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/pg.jar"
-    },
-    {
-      "key": "TGYunPan",
-      "name": "TG群组搜索",
-      "type": 3,
-      "api": "csp_TGYunPan",
-      "timeout": 120,
-      "ext": {
-        "token": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/lib/token.json",
-        "json": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/json/tgsearch.json",
-        "keywords": "名称,片名,推荐",
-        "tgsearch_url": "http://127.0.0.1:10199",
-        "tgsearch_media_url": "http://127.0.0.1:10199",
-        "channellist": "alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000",
-        "proxy": "noproxy",
-        "danmu": true
-      },
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/pg.jar"
     },
     {
@@ -2178,23 +2110,6 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/pg23a94bb.jar"
     },
     {
-      "key": "SeHuaTang",
-      "name": "色花糖",
-      "type": 3,
-      "api": "csp_SeHuaTang",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 0,
-      "timeout": 60,
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/lib/token.json",
-      "style": {
-        "type": "rect",
-        "ratio": 1.5
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/pg23a94bb.jar"
-    },
-    {
       "key": "Top888",
       "name": "Top888",
       "type": 3,
@@ -2217,57 +2132,12 @@
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/pg23a94bb.jar"
     },
     {
-      "key": "Jable",
-      "name": "Jable",
-      "type": 3,
-      "api": "csp_Jable",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.77
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/pg23a94bb.jar"
-    },
-    {
-      "key": "Hanime",
-      "name": "Hanime",
-      "type": 3,
-      "api": "csp_Hanime",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 0.68
-      },
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/pg23a94bb.jar"
-    },
-    {
-      "key": "色花堂",
-      "name": "色花堂",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/XBPQ/色花堂.json",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d"
-    },
-    {
       "key": "drpy_js_ss直播",
       "name": "ss直播",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/js/ss直播.js",
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/pg23a94bb.jar"
-    },
-    {
-      "key": "drpy_js_玩偶姐姐",
-      "name": "玩偶姐姐",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/js/玩偶姐姐.js",
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/jar/pg23a94bb.jar"
     },
     {
@@ -2288,17 +2158,9 @@
     },
     {
       "key": "tantanzy.com",
-      "name": "💕探探(直连)",
+      "name": "💕探影(直连)",
       "type": 1,
       "api": "https://apittzy.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "jkunzy.com",
-      "name": "💕jkun(直连)",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
     },
@@ -2335,14 +2197,6 @@
       "filterable": 1
     },
     {
-      "key": "lyhzyw.com",
-      "name": "💕狼友会(直连)",
-      "type": 1,
-      "api": "https://api.lyhapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "jingpinx.com",
       "name": "★精品下(直连)",
       "type": 1,
@@ -2352,41 +2206,17 @@
     },
     {
       "key": "naixxzy.com",
-      "name": "★奶香香(直连)",
+      "name": "★香香(直连)",
       "type": 1,
       "api": "https://naixxzy.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "filterable": 1
     },
     {
-      "key": "laosebizy.com",
-      "name": "💕老色逼(直连)",
-      "type": 1,
-      "api": "https://apilsbzy1.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "www.caoliuzyw.com",
-      "name": "★草榴(直连)",
-      "type": 1,
-      "api": "https://www.caoliuzyw.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
       "key": "xjjzyapi.com",
-      "name": "美少女",
+      "name": "唯美影视",
       "type": 1,
       "api": "https://xjjzyapi.com/cjapi/sda/vod/?ac=list",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "semaozy.com",
-      "name": "色猫(FQ)",
-      "type": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
       "searchable": 1,
       "filterable": 1
     },
@@ -3249,7 +3079,6 @@
         "magicalsearch.top",
         "api123.adys.app",
         "raw.githubusercontent.com",
-        "googlevideo.com",
         "cdn.v82u1l.com",
         "cdn.iz8qkg.com",
         "cdn.kin6c1.com",
@@ -3257,7 +3086,6 @@
         "c.olddddd.com",
         "haiwaikan.com",
         "www.histar.tv",
-        "youtube.com",
         "uhibo.com",
         ".*boku.*",
         ".*nivod.*",
@@ -3280,14 +3108,7 @@
         "社区",
         "有趣",
         "有趣",
-        "英皇体育",
-        "全中文AV在线",
-        "澳门皇冠赌场",
-        "哥哥快来",
-        "美女荷官",
-        "裸聊",
-        "新片首发",
-        "UUE29"
+        "新片首发"
       ]
     },
     {
@@ -3458,16 +3279,9 @@
       "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
     {
-      "name": "PG•油管",
+      "name": "PG•海外",
       "type": 0,
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/yo21.txt",
-      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
-      "logo": "https://logo.wyfc.qzz.io/{name}.png"
-    },
-    {
-      "name": "YuanHsing•油管",
-      "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YuanHsing/YouTube_to_m3u/main/youtube.m3u",
       "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
       "logo": "https://logo.wyfc.qzz.io/{name}.png"
     },
@@ -3501,7 +3315,7 @@
       "url": "https://qu.ax/PEHy.txt"
     },
     {
-      "name": "AV",
+      "name": "综合直播",
       "type": 0,
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/qist/tvbox/master/livex.m3u"
     },
@@ -3512,14 +3326,6 @@
     }
   ],
   "doh": [
-    {
-      "name": "Google",
-      "url": "https://dns.google/dns-query",
-      "ips": [
-        "8.8.4.4",
-        "8.8.8.8"
-      ]
-    },
     {
       "name": "Cloudflare",
       "url": "https://cloudflare-dns.com/dns-query",
@@ -3696,8 +3502,6 @@
   ],
   "ads": [
     "mimg.0c1q0l.cn",
-    "www.googletagmanager.com",
-    "www.google-analytics.com",
     "hm.baidu.com",
     "ae01.alicdn.com",
     "static-mozai.4gtv.tv",
