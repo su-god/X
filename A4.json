@@ -504,6 +504,31 @@
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "playerType": 1
+    },
+    {
+      "name": "初秋语•综合",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/list.txt",
+      "playerType": 2,
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://logo.wyfc.qzz.io/{name}.png"
+    },
+    {
+      "name": "PG•油管",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/yo21.txt",
+      "epg": "http://epg.cdn.loc.cc/?ch={name}&date={date}",
+      "logo": "https://logo.wyfc.qzz.io/{name}.png"
+    },
+    {
+      "name": "初秋语",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/listx.txt"
+    },
+    {
+      "name": "AV",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/livex.m3u"
     }
   ],
   "wallpaper": "https://iys.cc/images/vajra-bg.jpg",
@@ -6954,6 +6979,434 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
+    },
+    {
+      "key": "hsckzy001",
+      "name": "黄色仓库",
+      "type": 1,
+      "api": "https://hsckzy001.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sex8zy1",
+      "name": "杏吧资源",
+      "type": 1,
+      "api": "https://api.xgbbk8.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "jkunzy",
+      "name": "ikun资源",
+      "type": 1,
+      "api": "https://jkunzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "laosebizy",
+      "name": "老色皮资源",
+      "type": 1,
+      "api": "https://apilsbzy2.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "heiliao",
+      "name": "黑料资源",
+      "type": 1,
+      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "drpy_js_磁力熊搜索",
+      "name": "熊搜",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "indexs": 1,
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/cilixiong.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_310直播",
+      "name": "310直播",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "changeable": 0,
+      "style": {
+        "type": "list"
+      },
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/310直播.js",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_4KHDR",
+      "name": "4KHDR[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/4khdr.js",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_MP4US",
+      "name": "MP4电影[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/mp4us.js",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_电影港",
+      "name": "电影港[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/dygang.js",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_kuba",
+      "name": "酷吧[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/kuba.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_xb6v",
+      "name": "新版6v[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/xb6v.js",
+      "playerType": "1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_美剧迷p",
+      "name": "美剧迷[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/meijumi.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_libvio",
+      "name": "libvio[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/libvio.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_tzfile",
+      "name": "团长[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/tzfile.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_dydhhy",
+      "name": "dydhhy[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/dydhhy.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_97tvs",
+      "name": "97tvs[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/97tvs.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_rrdyw",
+      "name": "rrdyw[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/rrdyw.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_校长影视",
+      "name": "校长[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/xzys.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_yyetsp",
+      "name": "人人搜[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/yyets.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_奇妙搜[夸]",
+      "name": "奇妙搜[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/qimiao.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_愛盤搜",
+      "name": "爱盘搜[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/aipanso.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_趣盤搜",
+      "name": "趣盘搜[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/funletu.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "drpy_js_meow",
+      "name": "meow搜[js]",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/meow.js",
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+    },
+    {
+      "key": "lf_js_search",
+      "name": "搜索",
+      "type": 3,
+      "searchable": 0,
+      "changeable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/lf_search3_min.js",
+      "indexs": 1,
+      "ext": "18+",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg23a94bb.jar"
+    },
+    {
+      "key": "lf_js_p2p",
+      "name": "磁力",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/lf_p2p2_min.js",
+      "ext": "18+",
+      "timeout": 60,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg23a94bb.jar"
+    },
+    {
+      "key": "drpy_js_ss直播",
+      "name": "ss直播",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/ss直播.js",
+      "timeout": 30,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg23a94bb.jar"
+    },
+    {
+      "key": "drpy_js_Missav",
+      "name": "Missav",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/Missav.js",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg23a94bb.jar"
+    },
+    {
+      "key": "drpy_js_玩偶姐姐",
+      "name": "玩偶姐姐",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/玩偶姐姐.js",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg23a94bb.jar"
+    },
+    {
+      "key": "drpy_js_朱古力",
+      "name": "朱古力",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/朱古力.js",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg23a94bb.jar"
+    },
+    {
+      "key": "vnzyz.com",
+      "name": "💕越南(直连)",
+      "type": 1,
+      "api": "https://vnzyz.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "semaozy.com",
+      "name": "色猫(FQ)",
+      "type": 1,
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "api.11bat.com",
+      "name": "成人15",
+      "type": 0,
+      "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+      }
+    },
+    {
+      "key": "gdlsp.com",
+      "name": "成人19",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+      }
+    },
+    {
+      "key": "msnii.com",
+      "name": "成人20",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+      }
+    },
+    {
+      "key": "xrbsp.com",
+      "name": "成人21",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+      }
+    },
+    {
+      "key": "kxgav.com",
+      "name": "成人22",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+      }
+    },
+    {
+      "key": "pgxdy",
+      "name": "X色A",
+      "type": 1,
+      "api": "https://www.pgxdy.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "parses": [
@@ -7311,6 +7764,36 @@
       "name": "Json解析",
       "type": 0,
       "url": "https://json.parser.xyz/jsonp.html"
+    },
+    {
+      "name": "m3u8",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "ckmov",
+      "type": 0,
+      "url": "https://ckmov.ccyjjd.com/ckmov/?url="
+    },
+    {
+      "name": "618g",
+      "type": 0,
+      "url": "https://jx.618g.com/?url="
+    },
+    {
+      "name": "gai4",
+      "type": 0,
+      "url": "https://www.gai4.com/?url="
+    },
+    {
+      "name": "janan",
+      "type": 0,
+      "url": "https://jiexi.janan.net/jiexi/?url="
+    },
+    {
+      "name": "damojx解析",
+      "type": 0,
+      "url": "https://www.damojx.com/dm/dm.html?url="
     }
   ]
 }
