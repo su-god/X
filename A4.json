@@ -40,13 +40,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "YueChan•综合",
-      "type": 0,
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "Yoursmile•综合",
       "type": 0,
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
@@ -72,13 +65,6 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "Ray•综合",
-      "type": 0,
-      "playerType": 1,
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
       "name": "俊于•综合",
       "type": 0,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
@@ -91,24 +77,6 @@
       "type": 0,
       "url": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/radio.txt",
       "playerType": 1
-    },
-    {
-      "name": "范明明•电台1",
-      "type": 0,
-      "playerType": 1
-    },
-    {
-      "name": "范明明•电台2",
-      "type": 0,
-      "playerType": 1
-    },
-    {
-      "name": "16万•MV",
-      "type": 0
-    },
-    {
-      "name": "YuanHsing•油管",
-      "type": 0
     },
     {
       "name": "vbskycn·IPv4直播",
