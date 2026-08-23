@@ -509,55 +509,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
-    },
-    {
-      "key": "drpy_js_360影视",
-      "name": "官源┃360[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/360影视.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "官源┃优酷[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/优酷.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_菜狗",
-      "name": "官源┃搜狗[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/菜狗.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "官源┃爱奇艺[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/奇珍异兽.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_腾云驾雾",
-      "name": "官源┃腾讯[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/腾云驾雾.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "官源┃芒果[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/百忙无果.js",
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "wkvip",
@@ -567,7 +520,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "暴風",
@@ -586,461 +540,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "category": []
-    },
-    {
-      "key": "csp_AList",
-      "name": "AList┃网盘",
-      "type": "3",
-      "api": "csp_AList",
-      "searchable": "0",
-      "quickSearch": "0",
-      "filterable": "1",
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/json/alist.json",
-      "category": []
-    },
-    {
-      "key": "alllive",
-      "name": "一直播┃直播",
-      "type": 3,
-      "api": "csp_Alllive",
-      "playerType": 2,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "category": []
-    },
-    {
-      "key": "Anime1",
-      "name": "日本┃动漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "category": []
-    },
-    {
-      "key": "木星",
-      "name": "木星┃多线",
-      "type": 3,
-      "api": "csp_AppSx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM",
-      "category": []
-    },
-    {
-      "key": "速播",
-      "name": "速播┃多线",
-      "type": 3,
-      "api": "csp_AppSx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6",
-      "category": []
-    },
-    {
-      "key": "热播",
-      "name": "热播┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
-      "category": []
-    },
-    {
-      "key": "萌米",
-      "name": "萌米┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
-      "category": []
-    },
-    {
-      "key": "欢视",
-      "name": "欢视┃多线",
-      "type": 3,
-      "api": "csp_AppTT",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AO7TcBkd8IPB+BwH4Qma+opv",
-      "category": []
-    },
-    {
-      "key": "Auete",
-      "name": "奥特┃无广",
-      "type": 3,
-      "api": "csp_Auete",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.com/",
-      "category": []
-    },
-    {
-      "key": "csp_Bili",
-      "name": "哔哩┃合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/json/chuqiuyu.json",
-      "category": []
-    },
-    {
-      "key": "csp_xuexi",
-      "name": "哔哩┃课堂",
-      "type": "3",
-      "api": "csp_Bili",
-      "searchable": "0",
-      "quickSearch": "0",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "filterable": "1",
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/json/xuexi.json",
-      "category": []
-    },
-    {
-      "key": "MTV",
-      "name": "明星┃MV",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": {
-        "json": "https://notabug.org/fantaiying/ext/raw/main/MTV.json"
-      },
-      "category": []
-    },
-    {
-      "key": "比特",
-      "name": "比特┃秒播",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "category": []
-    },
-    {
-      "key": "短剧",
-      "name": "上头┃短剧",
-      "type": 3,
-      "api": "csp_Djtt",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "category": []
-    },
-    {
-      "key": "Dm84",
-      "name": "巴士┃动漫",
-      "type": 3,
-      "api": "csp_Dm84",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "category": []
-    },
-    {
-      "key": "豆豆",
-      "name": "豆瓣┃搜索",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "category": []
-    },
-    {
-      "key": "Aid",
-      "name": "急救┃教学",
-      "type": 3,
-      "api": "csp_FirstAid",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      },
-      "category": []
-    },
-    {
-      "key": "文采",
-      "name": "文采┃秒播",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "category": []
-    },
-    {
-      "key": "可可",
-      "name": "可可┃多线",
-      "type": 3,
-      "api": "csp_Kekys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "category": []
-    },
-    {
-      "key": "抠搜",
-      "name": "抠抠┃搜搜",
-      "type": 3,
-      "api": "csp_KkSs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      },
-      "category": []
-    },
-    {
-      "key": "Lib",
-      "name": "立播┃秒播",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      },
-      "category": []
-    },
-    {
-      "key": "苹果",
-      "name": "苹果┃不卡",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "category": []
-    },
-    {
-      "key": "米搜",
-      "name": "米盘┃搜搜",
-      "type": 3,
-      "api": "csp_MIPanSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      },
-      "category": []
-    },
-    {
-      "key": "南瓜",
-      "name": "南瓜┃多线",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "category": []
-    },
-    {
-      "key": "厂长",
-      "name": "厂长┃不卡",
-      "type": 3,
-      "api": "csp_NewCz",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzy77.com/",
-      "category": []
-    },
-    {
-      "key": "糯米",
-      "name": "糯米┃秒播",
-      "type": 3,
-      "api": "csp_Nmyswv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "category": []
-    },
-    {
-      "key": "夸搜",
-      "name": "夸搜┃狸夸",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "pan": "quark",
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      },
-      "category": []
-    },
-    {
-      "key": "PanSearch",
-      "name": "盘Se┃阿狸",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      },
-      "category": []
-    },
-    {
-      "key": "Sso",
-      "name": "盘他┃三盘",
-      "type": 3,
-      "api": "csp_PanSso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      },
-      "category": []
-    },
-    {
-      "key": "push_agent",
-      "name": "手机┃推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      },
-      "category": []
-    },
-    {
-      "key": "新6V",
-      "name": "新6V┃磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://www.xb6v.com/",
-      "category": []
-    },
-    {
-      "key": "玩偶",
-      "name": "玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoGG",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto",
-        "siteUrl": "https://www.wogg.net/",
-        "danMu": "弹"
-      },
-      "category": []
-    },
-    {
-      "key": "csp_YGP",
-      "name": "预告片┃新片",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "category": []
-    },
-    {
-      "key": "YiSo",
-      "name": "易搜┃阿狸",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": {
-        "Cloud-drive": "tvfan/Cloud-drive.txt",
-        "from": "4k|auto"
-      },
-      "category": []
-    },
-    {
-      "key": "Ysj",
-      "name": "异界┃动漫",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "category": []
-    },
-    {
-      "key": "zxzj",
-      "name": "在线┃秒播",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzjhd.com/",
-      "category": []
-    },
-    {
-      "key": "926看球",
-      "name": "926┃看球",
-      "type": 3,
-      "api": "csp_kanqiu926",
-      "searchable": 0,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "117",
@@ -1050,7 +551,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "guangsuapi",
@@ -1060,7 +562,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "nav_",
@@ -1070,7 +573,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "dytt",
@@ -1080,7 +584,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "非凡",
@@ -1130,7 +635,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ffzy1",
@@ -1140,7 +646,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ffzy",
@@ -1150,7 +657,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "fhapi9",
@@ -1160,7 +668,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_hnzy2",
@@ -1181,7 +690,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "jinying",
@@ -1191,7 +701,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "kuaichezy",
@@ -1201,7 +712,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "lzizy",
@@ -1211,7 +723,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "sdzy",
@@ -1221,7 +734,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "sdzy3",
@@ -1231,7 +745,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "senlin",
@@ -1241,7 +756,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "tyyszy",
@@ -1251,7 +767,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "nav_x",
@@ -1261,7 +778,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "name": "玉兔资源",
@@ -1273,7 +791,9 @@
           "name": "主流"
         }
       ],
-      "key": "玉兔资源"
+      "key": "玉兔资源",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "key": "zuidazy",
@@ -1283,7 +803,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "155zy",
@@ -1293,7 +814,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "360zy",
@@ -1303,7 +825,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "360zy5",
@@ -1313,7 +836,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "360zyzz",
@@ -1323,7 +847,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "98zy",
@@ -1333,7 +858,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "bdzy",
@@ -1343,7 +869,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "百度",
@@ -1367,7 +894,8 @@
         "剧情片",
         "战争片"
       ],
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "name": "樱花资源api",
@@ -1379,7 +907,9 @@
           "name": "主流"
         }
       ],
-      "key": "樱花资源api"
+      "key": "樱花资源api",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "key": "滴滴资源站4万部_1",
@@ -1389,7 +919,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "didizy.com",
@@ -1399,7 +930,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "douapi",
@@ -1409,7 +941,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ffzyapi",
@@ -1419,7 +952,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "maoyanzy",
@@ -1429,7 +963,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "niuniuzy1",
@@ -1439,7 +974,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "okzyw_net",
@@ -1449,7 +985,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "uku",
@@ -1459,7 +996,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "越南资源站1万部_2",
@@ -1469,7 +1007,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "wujinapi",
@@ -1479,7 +1018,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "wujinapi1",
@@ -1489,7 +1029,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "xiaojizy",
@@ -1499,7 +1040,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "xinlangapi",
@@ -1509,7 +1051,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "zuidapi",
@@ -1519,7 +1062,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "大X子资源站12万部_1",
@@ -1529,7 +1073,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "dadi",
@@ -1539,7 +1084,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "老色X资源站20万部_2",
@@ -1549,7 +1095,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ataoju",
@@ -1559,7 +1106,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "dbzy",
@@ -1569,17 +1117,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "kuaichezyorg",
       "name": "快车资源(org)",
       "type": 1,
       "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "maotai",
@@ -1589,7 +1139,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "xigua_short",
@@ -1599,7 +1150,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "dazhong",
@@ -1609,278 +1161,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
-    },
-    {
-      "key": "drpy_js_我的哔哩",
-      "name": "弹幕┃我的哔哩[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/我的哔哩.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_哔哩直播",
-      "name": "弹幕┃哔哩直播[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/哔哩直播.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_JustLive",
-      "name": "直播┃JustLive[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/JustLive.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_斗鱼直播",
-      "name": "直播┃斗鱼[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/斗鱼直播.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_虎牙直播",
-      "name": "直播┃虎牙[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/虎牙直播.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_童趣",
-      "name": "少儿┃童趣[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/童趣.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_兔小贝",
-      "name": "少儿┃兔小贝[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/兔小贝.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_AnFuns",
-      "name": "动漫┃AnFuns[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/AnFuns.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_NT动漫",
-      "name": "动漫┃NT动漫[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/NT动漫.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_NyaFun",
-      "name": "动漫┃NyaFun[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/NyaFun.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_i275听书",
-      "name": "听书┃i275听书[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/i275听书.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_爱上你听书网",
-      "name": "听书┃爱上你听书[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/爱上你听书网.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_博看听书",
-      "name": "听书┃博看听书[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/博看听书.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_评书随身听",
-      "name": "评书┃评书随身听[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/评书随身听.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_相声随身听",
-      "name": "相声┃相声随身听[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/相声随身听.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_好趣网",
-      "name": "电视┃好趣网[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "style": {
-        "type": "oval",
-        "ratio": 1.1
-      },
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/好趣网.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_广播迷FM",
-      "name": "广播┃广播迷FM[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/广播迷FM.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_蜻蜓FM",
-      "name": "广播┃蜻蜓FM[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/蜻蜓FM.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_DJ音乐",
-      "name": "音频┃DJ音乐[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/DJ音乐.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_短视频",
-      "name": "聚合┃短视频[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/短视频.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_酷6网",
-      "name": "聚合┃酷6网[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/酷6网.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_网易公版影像",
-      "name": "聚合┃网易公版[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/网易公版影像.js",
-      "category": []
-    },
-    {
-      "key": "drpy_js_酷奇MV",
-      "name": "MV┃酷奇[js]",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/酷奇MV.js",
-      "category": []
-    },
-    {
-      "key": "bb",
-      "name": "配置接口完全免费",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/drpy.js",
-      "category": []
-    },
-    {
-      "key": "cc",
-      "name": "请勿相信视频中任何广告",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/drpy.js",
-      "category": []
-    },
-    {
-      "key": "lf_js_lf_live",
-      "name": "电视┃直播",
-      "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/lf_live_min.js",
-      "style": {
-        "type": "oval"
-      },
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/lf_live.txt",
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "量子",
@@ -1935,7 +1217,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "yayazy1",
@@ -1945,7 +1228,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "nav_ck",
@@ -1955,7 +1239,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ckzy",
@@ -1965,7 +1250,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ckzy1",
@@ -1975,7 +1261,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "dadiapi.com0",
@@ -1985,7 +1272,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "dbzy1",
@@ -1995,7 +1283,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "dbzy1_new",
@@ -2005,7 +1294,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "didizy",
@@ -2015,7 +1305,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "doubanzy",
@@ -2025,7 +1316,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "doudouzy",
@@ -2035,7 +1327,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "name": "饭搭子影视",
@@ -2047,7 +1340,9 @@
           "name": "主流"
         }
       ],
-      "key": "饭搭子影视"
+      "key": "饭搭子影视",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "key": "feikuai",
@@ -2057,7 +1352,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "name": "非凡资源ffzy3",
@@ -2069,7 +1365,9 @@
           "name": "主流"
         }
       ],
-      "key": "非凡资源ffzy3"
+      "key": "非凡资源ffzy3",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "key": "gqc",
@@ -2079,7 +1377,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "haohuazy",
@@ -2089,7 +1388,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "黑料资源站9万部_3",
@@ -2099,7 +1399,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "hhzy",
@@ -2109,7 +1410,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "hongniuzy",
@@ -2119,7 +1421,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "hongniuzy3",
@@ -2129,7 +1432,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "hongniuzy4",
@@ -2139,7 +1443,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "黄色仓库资源6万部_4",
@@ -2149,7 +1454,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "huya",
@@ -2159,7 +1465,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "huawei8",
@@ -2169,7 +1476,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "iqiyizy",
@@ -2179,7 +1487,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "iqiyizyapi",
@@ -2189,7 +1498,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "jinyingdb",
@@ -2199,7 +1509,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "jisuzy",
@@ -2209,7 +1520,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "nav_jkun",
@@ -2219,7 +1531,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "杏吧资源站10万部_5",
@@ -2229,7 +1542,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "jszyapi",
@@ -2239,7 +1553,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "金鹰资源站11万部_6",
@@ -2249,7 +1564,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "lbapi9",
@@ -2259,7 +1575,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "lebozy",
@@ -2269,7 +1586,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "lebozy5",
@@ -2279,7 +1597,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "lovedan",
@@ -2289,7 +1608,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_lzzy",
@@ -2310,7 +1630,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "lzizy2",
@@ -2320,7 +1641,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "apiyhzy",
@@ -2330,7 +1652,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "yingniu",
@@ -2340,7 +1663,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "mtzy5",
@@ -2350,7 +1674,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "niuniuzy",
@@ -2360,123 +1685,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
-    },
-    {
-      "key": "虎牙直播js",
-      "name": "虎牙┃直播",
-      "type": 3,
-      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.js",
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/huya2.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "playerType": "2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "category": []
-    },
-    {
-      "key": "88js",
-      "name": " 88┃看球",
-      "type": 3,
-      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/88看球.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "category": []
-    },
-    {
-      "key": "310js",
-      "name": " 310┃看球",
-      "type": 3,
-      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/310直播.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "category": []
-    },
-    {
-      "key": "Jrsjs",
-      "name": " Jrs┃球迷",
-      "type": 3,
-      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/jrk.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "category": []
-    },
-    {
-      "key": "酷奇",
-      "name": "酷奇┃MV",
-      "type": 3,
-      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/酷奇MV.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "category": []
-    },
-    {
-      "key": "斗鱼js",
-      "name": "斗鱼┃直播",
-      "type": 3,
-      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/斗鱼直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "playerType": "2",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "category": []
-    },
-    {
-      "key": "有声小说js",
-      "name": "有声┃小说",
-      "type": 3,
-      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/有声小说吧.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "category": []
-    },
-    {
-      "key": "贱贱",
-      "name": "贱贱┃P2P",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "playerType": "1",
-      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
-      "ext": "https://notabug.org/fantaiying/ext/raw/main/jp.js",
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "okzyw",
@@ -2486,7 +1696,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "name": "OK资源okzyw",
@@ -2498,7 +1709,9 @@
           "name": "主流"
         }
       ],
-      "key": "OK资源okzyw"
+      "key": "OK资源okzyw",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "key": "p2100",
@@ -2508,7 +1721,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "shayuzy5",
@@ -2518,7 +1732,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "name": "森林资源inc",
@@ -2530,7 +1745,9 @@
           "name": "成人"
         }
       ],
-      "key": "森林资源inc"
+      "key": "森林资源inc",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "key": "subocaiji",
@@ -2540,7 +1757,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "subocj",
@@ -2550,7 +1768,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "索尼",
@@ -2580,7 +1799,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "taopian",
@@ -2590,7 +1810,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "name": "淘片资源m3u8",
@@ -2602,7 +1823,9 @@
           "name": "主流"
         }
       ],
-      "key": "淘片资源m3u8"
+      "key": "淘片资源m3u8",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "key": "taohuazy",
@@ -2612,7 +1835,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "tmzyz",
@@ -2622,7 +1846,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "tyyszy5",
@@ -2632,7 +1857,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "tyys",
@@ -2642,7 +1868,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "wjzy",
@@ -2652,7 +1879,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "5o5k",
@@ -2662,7 +1890,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "660f",
@@ -2672,7 +1901,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "豆豆资源站5万部_7",
@@ -2682,7 +1912,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "freeok",
@@ -2692,7 +1923,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "hongniuzy_www",
@@ -2702,7 +1934,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "huyaapi",
@@ -2712,7 +1945,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_iqyzy",
@@ -2733,7 +1967,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ryzy",
@@ -2743,7 +1978,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "suboziyuan",
@@ -2753,7 +1989,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "wsyzy",
@@ -2763,7 +2000,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "xiangjiaozyw",
@@ -2773,7 +2011,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "xibaozyw",
@@ -2783,7 +2022,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "yxxq31",
@@ -2793,7 +2033,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "zitv",
@@ -2803,7 +2044,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "最大资源站12万部_9",
@@ -2813,17 +2055,19 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "sdzy_bei",
       "name": "闪电备源",
       "type": 1,
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "湿乐园资源站22万部_10",
@@ -2833,7 +2077,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "yayazy",
@@ -2843,7 +2088,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "yingxiangxingqiu",
@@ -2853,7 +2099,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "xiaomaomi",
@@ -2863,7 +2110,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "name": "奥迪萨资源",
@@ -2875,7 +2123,9 @@
           "name": "主流"
         }
       ],
-      "key": "奥迪萨资源"
+      "key": "奥迪萨资源",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "番茄资源",
@@ -2887,7 +2137,9 @@
           "name": "主流"
         }
       ],
-      "key": "番茄资源"
+      "key": "番茄资源",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "IKUN资源",
@@ -2899,7 +2151,9 @@
           "name": "主流"
         }
       ],
-      "key": "IKUN资源"
+      "key": "IKUN资源",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "172资源采集站",
@@ -2911,7 +2165,9 @@
           "name": "主流"
         }
       ],
-      "key": "172资源采集站"
+      "key": "172资源采集站",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "35资源",
@@ -2923,7 +2179,9 @@
           "name": "主流"
         }
       ],
-      "key": "35资源"
+      "key": "35资源",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "771资源站",
@@ -2935,7 +2193,9 @@
           "name": "主流"
         }
       ],
-      "key": "771资源站"
+      "key": "771资源站",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "IKUN资源(ikm3u8)",
@@ -2947,7 +2207,9 @@
           "name": "主流"
         }
       ],
-      "key": "IKUN资源ikm3u8"
+      "key": "IKUN资源ikm3u8",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "U酷资源",
@@ -2959,7 +2221,9 @@
           "name": "主流"
         }
       ],
-      "key": "U酷资源"
+      "key": "U酷资源",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "值资资源采集站",
@@ -2971,7 +2235,9 @@
           "name": "主流"
         }
       ],
-      "key": "值资资源采集站"
+      "key": "值资资源采集站",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "卧龙资源(cc)",
@@ -2983,7 +2249,9 @@
           "name": "主流"
         }
       ],
-      "key": "卧龙资源cc"
+      "key": "卧龙资源cc",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "快看资源",
@@ -2995,7 +2263,9 @@
           "name": "主流"
         }
       ],
-      "key": "快看资源"
+      "key": "快看资源",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "明日资源(待验证)",
@@ -3007,7 +2277,9 @@
           "name": "主流"
         }
       ],
-      "key": "明日资源待验证"
+      "key": "明日资源待验证",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "海外看采集(待验证)",
@@ -3019,7 +2291,9 @@
           "name": "成人"
         }
       ],
-      "key": "海外看采集待验证"
+      "key": "海外看采集待验证",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "玉兔资源(待验证)",
@@ -3031,7 +2305,9 @@
           "name": "主流"
         }
       ],
-      "key": "玉兔资源待验证"
+      "key": "玉兔资源待验证",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "魔卡资源网(待验证)",
@@ -3043,7 +2319,9 @@
           "name": "主流"
         }
       ],
-      "key": "魔卡资源网待验证"
+      "key": "魔卡资源网待验证",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "森林资源(25万部)",
@@ -3055,7 +2333,9 @@
           "name": "主流"
         }
       ],
-      "key": "森林资源25万部"
+      "key": "森林资源25万部",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "量子资源lzizy.com",
@@ -3067,7 +2347,9 @@
           "name": "主流"
         }
       ],
-      "key": "量子资源lzizycom"
+      "key": "量子资源lzizycom",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "豪华资源haohuazy.net",
@@ -3079,7 +2361,9 @@
           "name": "主流"
         }
       ],
-      "key": "豪华资源haohuazy"
+      "key": "豪华资源haohuazy",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "360资源zy1",
@@ -3091,7 +2375,9 @@
           "name": "主流"
         }
       ],
-      "key": "360资源zy1"
+      "key": "360资源zy1",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "IKUN资源net",
@@ -3103,7 +2389,9 @@
           "name": "主流"
         }
       ],
-      "key": "IKUN资源net"
+      "key": "IKUN资源net",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "短剧资源www(待验证)",
@@ -3115,7 +2403,9 @@
           "name": "主流"
         }
       ],
-      "key": "短剧资源www待验证"
+      "key": "短剧资源www待验证",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "细胞资源(待验证)",
@@ -3127,7 +2417,9 @@
           "name": "成人"
         }
       ],
-      "key": "细胞资源待验证"
+      "key": "细胞资源待验证",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "api红牛(待验证)",
@@ -3139,7 +2431,9 @@
           "name": "主流"
         }
       ],
-      "key": "api红牛待验证"
+      "key": "api红牛待验证",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "m3u8红牛(待验证)",
@@ -3151,7 +2445,9 @@
           "name": "主流"
         }
       ],
-      "key": "m3u8红牛待验证"
+      "key": "m3u8红牛待验证",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "m3u8虎牙(待验证)",
@@ -3163,7 +2459,9 @@
           "name": "主流"
         }
       ],
-      "key": "m3u8虎牙待验证"
+      "key": "m3u8虎牙待验证",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "短剧api(待验证)",
@@ -3175,7 +2473,9 @@
           "name": "主流"
         }
       ],
-      "key": "短剧api待验证"
+      "key": "短剧api待验证",
+      "changeable": 1,
+      "searchable": 1
     },
     {
       "name": "help暴风(待验证)",
@@ -3187,7 +2487,1104 @@
           "name": "主流"
         }
       ],
-      "key": "help暴风待验证"
+      "key": "help暴风待验证",
+      "changeable": 1,
+      "searchable": 1
+    },
+    {
+      "key": "nav_av",
+      "name": "搜av资源站(12万部)",
+      "type": 1,
+      "api": "https://api.souavzyw.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "hsckzy001",
+      "name": "黄色仓库",
+      "type": 1,
+      "api": "https://hsckzy001.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "sex8zy1",
+      "name": "杏吧资源",
+      "type": 1,
+      "api": "https://api.xgbbk8.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "jkunzy",
+      "name": "ikun资源",
+      "type": 1,
+      "api": "https://jkunzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "laosebizy",
+      "name": "老色皮资源",
+      "type": 1,
+      "api": "https://apilsbzy2.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "heiliao",
+      "name": "黑料资源",
+      "type": 1,
+      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "vnzyz.com",
+      "name": "💕越南(直连)",
+      "type": 1,
+      "api": "https://vnzyz.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "semaozy.com",
+      "name": "色猫(FQ)",
+      "type": 1,
+      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "api.11bat.com",
+      "name": "成人15",
+      "type": 0,
+      "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+      },
+      "changeable": 1
+    },
+    {
+      "key": "gdlsp.com",
+      "name": "成人19",
+      "type": 0,
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+      },
+      "changeable": 1
+    },
+    {
+      "key": "msnii.com",
+      "name": "成人20",
+      "type": 0,
+      "api": "https://www.msnii.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+      },
+      "changeable": 1
+    },
+    {
+      "key": "xrbsp.com",
+      "name": "成人21",
+      "type": 0,
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+      },
+      "changeable": 1
+    },
+    {
+      "key": "kxgav.com",
+      "name": "成人22",
+      "type": 0,
+      "api": "https://www.kxgav.com/api/xml.php",
+      "searchable": 1,
+      "recordable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      },
+      "header": {
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+      },
+      "changeable": 1
+    },
+    {
+      "key": "pgxdy",
+      "name": "X色A",
+      "type": 1,
+      "api": "https://www.pgxdy.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_AList",
+      "name": "AList┃网盘",
+      "type": "3",
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": "0",
+      "filterable": "1",
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/json/alist.json",
+      "category": []
+    },
+    {
+      "key": "csp_xuexi",
+      "name": "哔哩┃课堂",
+      "type": "3",
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": "0",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "filterable": "1",
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/json/xuexi.json",
+      "category": []
+    },
+    {
+      "key": "drpy_js_360影视",
+      "name": "官源┃360[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/360影视.js",
+      "category": [],
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "drpy_js_优酷",
+      "name": "官源┃优酷[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/优酷.js",
+      "category": [],
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "drpy_js_菜狗",
+      "name": "官源┃搜狗[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/菜狗.js",
+      "category": [],
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "drpy_js_奇珍异兽",
+      "name": "官源┃爱奇艺[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/奇珍异兽.js",
+      "category": [],
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "drpy_js_腾云驾雾",
+      "name": "官源┃腾讯[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/腾云驾雾.js",
+      "category": [],
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "drpy_js_百忙无果",
+      "name": "官源┃芒果[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/百忙无果.js",
+      "category": [],
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "alllive",
+      "name": "一直播┃直播",
+      "type": 3,
+      "api": "csp_Alllive",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "Anime1",
+      "name": "日本┃动漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "木星",
+      "name": "木星┃多线",
+      "type": 3,
+      "api": "csp_AppSx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM",
+      "category": []
+    },
+    {
+      "key": "速播",
+      "name": "速播┃多线",
+      "type": 3,
+      "api": "csp_AppSx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6",
+      "category": []
+    },
+    {
+      "key": "热播",
+      "name": "热播┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU=",
+      "category": []
+    },
+    {
+      "key": "萌米",
+      "name": "萌米┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
+      "category": []
+    },
+    {
+      "key": "欢视",
+      "name": "欢视┃多线",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AO7TcBkd8IPB+BwH4Qma+opv",
+      "category": []
+    },
+    {
+      "key": "Auete",
+      "name": "奥特┃无广",
+      "type": 3,
+      "api": "csp_Auete",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.com/",
+      "category": []
+    },
+    {
+      "key": "csp_Bili",
+      "name": "哔哩┃合集",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/json/chuqiuyu.json",
+      "category": []
+    },
+    {
+      "key": "MTV",
+      "name": "明星┃MV",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "ext": {
+        "json": "https://notabug.org/fantaiying/ext/raw/main/MTV.json"
+      },
+      "category": []
+    },
+    {
+      "key": "比特",
+      "name": "比特┃秒播",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "短剧",
+      "name": "上头┃短剧",
+      "type": 3,
+      "api": "csp_Djtt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "Dm84",
+      "name": "巴士┃动漫",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "豆豆",
+      "name": "豆瓣┃搜索",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "category": [],
+      "changeable": 1
+    },
+    {
+      "key": "Aid",
+      "name": "急救┃教学",
+      "type": 3,
+      "api": "csp_FirstAid",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      },
+      "category": []
+    },
+    {
+      "key": "文采",
+      "name": "文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "可可",
+      "name": "可可┃多线",
+      "type": 3,
+      "api": "csp_Kekys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "抠搜",
+      "name": "抠抠┃搜搜",
+      "type": 3,
+      "api": "csp_KkSs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      },
+      "category": []
+    },
+    {
+      "key": "Lib",
+      "name": "立播┃秒播",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      },
+      "category": []
+    },
+    {
+      "key": "苹果",
+      "name": "苹果┃不卡",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "米搜",
+      "name": "米盘┃搜搜",
+      "type": 3,
+      "api": "csp_MIPanSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      },
+      "category": []
+    },
+    {
+      "key": "南瓜",
+      "name": "南瓜┃多线",
+      "type": 3,
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "厂长",
+      "name": "厂长┃不卡",
+      "type": 3,
+      "api": "csp_NewCz",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy77.com/",
+      "category": []
+    },
+    {
+      "key": "糯米",
+      "name": "糯米┃秒播",
+      "type": 3,
+      "api": "csp_Nmyswv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "夸搜",
+      "name": "夸搜┃狸夸",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "pan": "quark",
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      },
+      "category": []
+    },
+    {
+      "key": "PanSearch",
+      "name": "盘Se┃阿狸",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      },
+      "category": []
+    },
+    {
+      "key": "Sso",
+      "name": "盘他┃三盘",
+      "type": 3,
+      "api": "csp_PanSso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      },
+      "category": []
+    },
+    {
+      "key": "push_agent",
+      "name": "手机┃推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "quickSearch": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      },
+      "category": [],
+      "changeable": 1
+    },
+    {
+      "key": "新6V",
+      "name": "新6V┃磁力",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.xb6v.com/",
+      "category": []
+    },
+    {
+      "key": "玩偶",
+      "name": "玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      },
+      "category": []
+    },
+    {
+      "key": "csp_YGP",
+      "name": "预告片┃新片",
+      "type": 3,
+      "api": "csp_YGP",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "YiSo",
+      "name": "易搜┃阿狸",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      },
+      "category": []
+    },
+    {
+      "key": "Ysj",
+      "name": "异界┃动漫",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "zxzj",
+      "name": "在线┃秒播",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.zxzjhd.com/",
+      "category": []
+    },
+    {
+      "key": "926看球",
+      "name": "926┃看球",
+      "type": 3,
+      "api": "csp_kanqiu926",
+      "searchable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "list"
+      },
+      "category": []
+    },
+    {
+      "key": "drpy_js_我的哔哩",
+      "name": "弹幕┃我的哔哩[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/我的哔哩.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_哔哩直播",
+      "name": "弹幕┃哔哩直播[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/哔哩直播.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_JustLive",
+      "name": "直播┃JustLive[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/JustLive.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_斗鱼直播",
+      "name": "直播┃斗鱼[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/斗鱼直播.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_虎牙直播",
+      "name": "直播┃虎牙[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/虎牙直播.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_童趣",
+      "name": "少儿┃童趣[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/童趣.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_兔小贝",
+      "name": "少儿┃兔小贝[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/兔小贝.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_AnFuns",
+      "name": "动漫┃AnFuns[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/AnFuns.js",
+      "category": [],
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "drpy_js_NT动漫",
+      "name": "动漫┃NT动漫[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/NT动漫.js",
+      "category": [],
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "drpy_js_NyaFun",
+      "name": "动漫┃NyaFun[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/NyaFun.js",
+      "category": [],
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "drpy_js_i275听书",
+      "name": "听书┃i275听书[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/i275听书.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_爱上你听书网",
+      "name": "听书┃爱上你听书[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/爱上你听书网.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_博看听书",
+      "name": "听书┃博看听书[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/博看听书.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_评书随身听",
+      "name": "评书┃评书随身听[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/评书随身听.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_相声随身听",
+      "name": "相声┃相声随身听[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/相声随身听.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_好趣网",
+      "name": "电视┃好趣网[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "style": {
+        "type": "oval",
+        "ratio": 1.1
+      },
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/好趣网.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_广播迷FM",
+      "name": "广播┃广播迷FM[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/广播迷FM.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_蜻蜓FM",
+      "name": "广播┃蜻蜓FM[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/蜻蜓FM.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_DJ音乐",
+      "name": "音频┃DJ音乐[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/DJ音乐.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_短视频",
+      "name": "聚合┃短视频[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/短视频.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_酷6网",
+      "name": "聚合┃酷6网[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/酷6网.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_网易公版影像",
+      "name": "聚合┃网易公版[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/网易公版影像.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "drpy_js_酷奇MV",
+      "name": "MV┃酷奇[js]",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "changeable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/酷奇MV.js",
+      "category": [],
+      "searchable": 1
+    },
+    {
+      "key": "bb",
+      "name": "配置接口完全免费",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/drpy.js",
+      "category": [],
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "cc",
+      "name": "请勿相信视频中任何广告",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/drpy2.min.js",
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/drpy.js",
+      "category": [],
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "lf_js_lf_live",
+      "name": "电视┃直播",
+      "type": 3,
+      "api": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/lib/lf_live_min.js",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/js/lf_live.txt",
+      "category": []
+    },
+    {
+      "key": "虎牙直播js",
+      "name": "虎牙┃直播",
+      "type": 3,
+      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.js",
+      "ext": "https://notabug.org/fantaiying/ext/raw/main/huya2.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "88js",
+      "name": " 88┃看球",
+      "type": 3,
+      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+      "ext": "https://notabug.org/fantaiying/ext/raw/main/88看球.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "310js",
+      "name": " 310┃看球",
+      "type": 3,
+      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+      "ext": "https://notabug.org/fantaiying/ext/raw/main/310直播.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "Jrsjs",
+      "name": " Jrs┃球迷",
+      "type": 3,
+      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+      "ext": "https://notabug.org/fantaiying/ext/raw/main/jrk.js",
+      "style": {
+        "type": "list"
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "酷奇",
+      "name": "酷奇┃MV",
+      "type": 3,
+      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+      "ext": "https://notabug.org/fantaiying/ext/raw/main/酷奇MV.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "斗鱼js",
+      "name": "斗鱼┃直播",
+      "type": 3,
+      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+      "ext": "https://notabug.org/fantaiying/ext/raw/main/斗鱼直播.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.755
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "有声小说js",
+      "name": "有声┃小说",
+      "type": 3,
+      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+      "ext": "https://notabug.org/fantaiying/ext/raw/main/有声小说吧.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 1,
+      "category": []
+    },
+    {
+      "key": "贱贱",
+      "name": "贱贱┃P2P",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "api": "https://notabug.org/fantaiying/ext/raw/main/drpy2.min.js",
+      "ext": "https://notabug.org/fantaiying/ext/raw/main/jp.js",
+      "category": []
     },
     {
       "key": "NewDouBan",
@@ -3196,11 +3593,11 @@
       "api": "csp_NewDouBanGuard",
       "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
       "jar": "http://oss4liview.moji.com/thd_file/2026/08/20/e9b740cd735f9cdbcfc251c4416f903d.jpg;md5;feeec766b46aacafceb39a8f047960a0",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "Wexconfig",
@@ -3209,11 +3606,11 @@
       "api": "csp_WexConfigGuard",
       "ext": "",
       "jar": "http://oss4liview.moji.com/thd_file/2026/08/20/e9b740cd735f9cdbcfc251c4416f903d.jpg;md5;feeec766b46aacafceb39a8f047960a0",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "二小",
@@ -3225,8 +3622,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "NewZhiZhen",
@@ -3238,8 +3635,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "NewGuanYing",
@@ -3251,8 +3648,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "NewJuTou",
@@ -3264,8 +3661,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "NewHuBan",
@@ -3277,8 +3674,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "NewMuOu",
@@ -3290,8 +3687,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "NewDuoDuo",
@@ -3303,8 +3700,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "原盘",
@@ -3316,8 +3713,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "NewPanMe123",
@@ -3329,8 +3726,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "WexHanXiaoQuan",
@@ -3342,8 +3739,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "WexGuaZi",
@@ -3355,8 +3752,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "賤賤",
@@ -3368,8 +3765,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "WexWenCai",
@@ -3381,8 +3778,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "WexDuBoKu",
@@ -3394,8 +3791,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "WexYueYue",
@@ -3407,8 +3804,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "WexYiYs",
@@ -3420,8 +3817,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "WexReBo",
@@ -3433,8 +3830,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "WexBoBo",
@@ -3446,8 +3843,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "WexIkanBot",
@@ -3459,8 +3856,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "LiveHuYa",
@@ -3472,8 +3869,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "LiveDouYu",
@@ -3485,8 +3882,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "LiveBiLi",
@@ -3498,8 +3895,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ManJuHongGuo",
@@ -3511,8 +3908,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ManJuHuoLong",
@@ -3524,8 +3921,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ManJuQiMao",
@@ -3537,8 +3934,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ManJuXiFan",
@@ -3550,8 +3947,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ManJuAiHeMa",
@@ -3563,8 +3960,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "DuanJuHaoKan",
@@ -3576,8 +3973,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "DuanJuQiMiao",
@@ -3589,8 +3986,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "DuanJuXingYa",
@@ -3602,8 +3999,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "DuanJuWeiGuan",
@@ -3615,8 +4012,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "AnimeHuaziGuard",
@@ -3628,8 +4025,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "AnimeMoDu",
@@ -3641,8 +4038,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "BookShiJie",
@@ -3654,8 +4051,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "BookYueTing",
@@ -3667,8 +4064,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "Book23TingShu",
@@ -3680,8 +4077,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ChildrenDuoDuo",
@@ -3693,8 +4090,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ChildrenBaoBao",
@@ -3706,8 +4103,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ChildrenBeiWa",
@@ -3719,8 +4116,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ChildrenTuTu",
@@ -3732,8 +4129,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "WexTangDou",
@@ -3745,8 +4142,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "MusicLiYuan",
@@ -3758,8 +4155,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "MusicQingTing",
@@ -3771,8 +4168,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "MusicIKtv",
@@ -3784,8 +4181,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "Music163",
@@ -3797,8 +4194,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "MusicKuWo",
@@ -3810,8 +4207,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "MusicLunHui",
@@ -3823,8 +4220,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "bilibiliys",
@@ -3836,8 +4233,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "bilibili",
@@ -3851,8 +4248,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "SportFeiQiu",
@@ -3864,8 +4261,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "SportGuaZi",
@@ -3877,8 +4274,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "SportKanQiuTong",
@@ -3890,8 +4287,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "SportKanqiu",
@@ -3903,8 +4300,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "SportKaFei",
@@ -3916,8 +4313,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "SportWwe",
@@ -3929,8 +4326,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "emby",
@@ -3942,8 +4339,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "AList",
@@ -3955,8 +4352,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "webdav",
@@ -3968,8 +4365,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "DiyVod",
@@ -3981,8 +4378,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "MyQuark",
@@ -3994,8 +4391,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "MyBaiDu",
@@ -4007,8 +4404,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "MyUcPan",
@@ -4020,8 +4417,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "MyGuangYa",
@@ -4033,8 +4430,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "MyPan189",
@@ -4046,8 +4443,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "MyPan115",
@@ -4059,8 +4456,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "Fake115Share",
@@ -4072,8 +4469,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "MyPan123",
@@ -4085,8 +4482,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "SoTySo",
@@ -4098,8 +4495,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "SoBaiDuSo",
@@ -4111,8 +4508,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "SoHaiYin",
@@ -4124,8 +4521,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "So97So",
@@ -4137,8 +4534,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "douban",
@@ -4150,8 +4547,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "配置中心",
@@ -4160,11 +4557,11 @@
       "api": "csp_Config",
       "ext": "",
       "jar": "https://mpimg.cn/down.php/ea3f3847275323ad197029e185664fd9.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "弹幕",
@@ -4173,11 +4570,11 @@
       "api": "csp_Huban",
       "ext": "",
       "jar": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/jar/HubanTCR.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "弹幕1",
@@ -4189,8 +4586,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "腾爱优b站",
@@ -4202,8 +4599,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "高清点播",
@@ -4215,8 +4612,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "橘汁",
@@ -4228,8 +4625,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "漫闪",
@@ -4241,8 +4638,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "还行",
@@ -4254,8 +4651,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "云播",
@@ -4267,8 +4664,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "歪比巴卜",
@@ -4280,8 +4677,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "光影",
@@ -4299,8 +4696,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "雪落",
@@ -4312,8 +4709,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "4k-av",
@@ -4325,8 +4722,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "一个影视",
@@ -4338,8 +4735,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "极影",
@@ -4351,8 +4748,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "山楂",
@@ -4364,8 +4761,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "Acfun",
@@ -4377,8 +4774,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "布布",
@@ -4390,8 +4787,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "分享",
@@ -4403,8 +4800,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "分享1",
@@ -4416,8 +4813,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "猫头鹰",
@@ -4435,8 +4832,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "哔哩幕",
@@ -4450,8 +4847,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "藤1藤",
@@ -4463,8 +4860,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "华数",
@@ -4476,8 +4873,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "动漫堂",
@@ -4495,8 +4892,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "去看吧",
@@ -4508,8 +4905,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "jieyingshi",
@@ -4521,8 +4918,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "文才影视",
@@ -4536,8 +4933,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "金牌123",
@@ -4549,8 +4946,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "移动",
@@ -4562,8 +4959,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "哔幕",
@@ -4575,8 +4972,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "聚搜影",
@@ -4588,8 +4985,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "丧尸",
@@ -4601,8 +4998,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "鬼片网",
@@ -4614,8 +5011,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "鬼",
@@ -4627,8 +5024,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "甜圈短剧",
@@ -4640,8 +5037,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "短剧｜聚合",
@@ -4653,8 +5050,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "布卡",
@@ -4671,8 +5068,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "js_亲子",
@@ -4684,8 +5081,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "模拟器",
@@ -4697,8 +5094,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "热播影视",
@@ -4712,8 +5109,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_Qiyou",
@@ -4725,8 +5122,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "永乐J",
@@ -4738,8 +5135,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "界影PY",
@@ -4751,8 +5148,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "裤佬EmbyJS",
@@ -4764,8 +5161,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "EmbyJS",
@@ -4777,8 +5174,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "裤佬央视PY",
@@ -4790,8 +5187,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "裤佬七星短剧",
@@ -4803,8 +5200,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "裤佬博看听书",
@@ -4816,8 +5213,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "咕噜画",
@@ -4834,8 +5231,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "耐看",
@@ -4847,8 +5244,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "mifun",
@@ -4863,8 +5260,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "星辰影院",
@@ -4876,8 +5273,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "哔哩直播",
@@ -4889,8 +5286,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "人人影视",
@@ -4902,8 +5299,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "皮皮虾",
@@ -4915,8 +5312,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_SaoHuo",
@@ -4928,8 +5325,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_SP360",
@@ -4941,8 +5338,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "星芽短剧",
@@ -4954,8 +5351,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "剧王短剧",
@@ -4967,8 +5364,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "七猫",
@@ -4980,8 +5377,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "qw",
@@ -4993,8 +5390,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "木偶",
@@ -5013,8 +5410,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "夸父",
@@ -5031,8 +5428,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "123",
@@ -5049,8 +5446,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "种子",
@@ -5068,8 +5465,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "即刻",
@@ -5081,8 +5478,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "指南",
@@ -5094,8 +5491,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "双星",
@@ -5107,8 +5504,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "天翼",
@@ -5120,8 +5517,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "趣盘",
@@ -5133,8 +5530,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "夸克网盘",
@@ -5143,11 +5540,11 @@
       "api": "csp_PanQuark",
       "ext": "",
       "jar": "https://mpimg.cn/down.php/ea3f3847275323ad197029e185664fd9.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "UC网盘",
@@ -5156,11 +5553,11 @@
       "api": "csp_PanUC",
       "ext": "",
       "jar": "https://mpimg.cn/down.php/ea3f3847275323ad197029e185664fd9.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "百度网盘",
@@ -5169,11 +5566,11 @@
       "api": "csp_PanBaidu",
       "ext": "",
       "jar": "https://mpimg.cn/down.php/ea3f3847275323ad197029e185664fd9.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "阿里云盘",
@@ -5182,11 +5579,11 @@
       "api": "csp_PanAli",
       "ext": "",
       "jar": "https://mpimg.cn/down.php/ea3f3847275323ad197029e185664fd9.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "本地",
@@ -5198,8 +5595,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "阿里盘搜",
@@ -5213,8 +5610,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "移动盘搜",
@@ -5228,8 +5625,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "糖果",
@@ -5241,8 +5638,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "百酷",
@@ -5254,8 +5651,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "酷乐搜索",
@@ -5267,8 +5664,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "鬼鬼搜索",
@@ -5280,8 +5677,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "混合",
@@ -5293,8 +5690,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "兄弟",
@@ -5306,8 +5703,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "58动漫网",
@@ -5319,8 +5716,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "次元城",
@@ -5332,8 +5729,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_Ying",
@@ -5345,8 +5742,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "动漫直链",
@@ -5358,8 +5755,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "nbys",
@@ -5371,8 +5768,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_Alist",
@@ -5401,11 +5798,11 @@
         "🦀9T(Adult)": "https://drive.9t.ee"
       },
       "jar": "http://home.jundie.top:81/jar/top98_1.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_xb_lez",
@@ -5422,8 +5819,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "drpy_js_ddys",
@@ -5435,8 +5832,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "Gitcafe",
@@ -5448,8 +5845,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "找资源",
@@ -5461,8 +5858,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "upyunsou",
@@ -5474,8 +5871,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "yisou",
@@ -5487,8 +5884,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "AliPS",
@@ -5500,8 +5897,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "荐片",
@@ -5513,8 +5910,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": "1",
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "原创",
@@ -5526,8 +5923,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "腐剧",
@@ -5539,8 +5936,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "低端",
@@ -5552,8 +5949,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": "2",
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "UC",
@@ -5568,8 +5965,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_Nbys",
@@ -5581,8 +5978,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "cntv",
@@ -5594,8 +5991,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "bookan_book_open",
@@ -5607,8 +6004,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "boosj_open",
@@ -5620,8 +6017,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "tuxiaobei_open",
@@ -5633,8 +6030,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "ubestkid_open",
@@ -5646,8 +6043,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "dr_兔小贝",
@@ -5656,11 +6053,11 @@
       "api": "https://cdn.jsdelivr.net/gh/fantaiying7/EXT@refs/heads/main/drpy2.min.js",
       "ext": "https://cdn.jsdelivr.net/gh/fantaiying7/EXT@refs/heads/main/兔小贝.js",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "drpy_js_酷云七七1",
@@ -5672,8 +6069,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "快看",
@@ -5685,8 +6082,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_YQKAPP",
@@ -5698,8 +6095,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_AppTT",
@@ -5711,8 +6108,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_Yj1211",
@@ -5724,8 +6121,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_Nmys",
@@ -5737,8 +6134,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_555电影",
@@ -5750,8 +6147,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_AppMr",
@@ -5763,8 +6160,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_CZSPP",
@@ -5776,8 +6173,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "17kan",
@@ -5786,11 +6183,11 @@
       "api": "csp_XYQBiu",
       "ext": "http://m35.grelighting.cn/html/box/json/17看球.json",
       "jar": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_xpath_球迷2",
@@ -5802,8 +6199,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "js_B站精简",
@@ -5812,11 +6209,11 @@
       "api": "http://m35.grelighting.cn/html/box/js/drpymin.js",
       "ext": "http://m35.grelighting.cn/html/box/js/B站精简.js",
       "jar": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_Bd",
@@ -5828,8 +6225,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "追剧喵",
@@ -5841,8 +6238,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_LibVio",
@@ -5854,8 +6251,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_Jianying",
@@ -5867,8 +6264,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_剧荒",
@@ -5880,8 +6277,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_XYQHiker_氢视频",
@@ -5893,8 +6290,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_biubiu_完美看看",
@@ -5906,8 +6303,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "mjxq_spider",
@@ -5919,8 +6316,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_Tkys",
@@ -5932,8 +6329,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_dd5555",
@@ -5945,8 +6342,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "Nfyun",
@@ -5958,8 +6355,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "3EDY",
@@ -5971,8 +6368,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "bdys",
@@ -5984,8 +6381,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_QQ",
@@ -5997,8 +6394,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_MGTV",
@@ -6010,8 +6407,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_IQIYI",
@@ -6023,8 +6420,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "利奥影院",
@@ -6036,8 +6433,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "极品影视",
@@ -6049,8 +6446,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "鑫总资源",
@@ -6059,11 +6456,11 @@
       "api": "csp_AppYs",
       "ext": "http://app.mmhkj.xyz/lvdou_api.php/v1.vod",
       "jar": "https://jihulab.com/duomv/duo/-/raw/main/custom_spider.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_douban",
@@ -6072,11 +6469,11 @@
       "api": "https://clun.top/py/douban.py",
       "ext": "",
       "jar": "https://clun.top/jar/xs.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "apple",
@@ -6088,8 +6485,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "金牌影院",
@@ -6101,8 +6498,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_maple",
@@ -6116,8 +6513,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_libvio",
@@ -6129,8 +6526,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "聚合短剧",
@@ -6142,8 +6539,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_kkys",
@@ -6155,8 +6552,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_bubuzhuiju",
@@ -6168,8 +6565,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_dsystv",
@@ -6183,8 +6580,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_ysttv",
@@ -6200,8 +6597,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_xlys",
@@ -6216,8 +6613,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_guazi",
@@ -6229,8 +6626,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_shanzha",
@@ -6242,8 +6639,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_qiyoudy",
@@ -6255,8 +6652,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_蛋挞",
@@ -6268,8 +6665,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_yangguang",
@@ -6278,11 +6675,11 @@
       "api": "https://clun.top/py/yangguang.py",
       "ext": "",
       "jar": "https://clun.top/jar/xs.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_saohuo",
@@ -6294,8 +6691,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_yunduo",
@@ -6307,8 +6704,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_duoduo",
@@ -6320,8 +6717,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_fqdm",
@@ -6333,8 +6730,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_高清电影",
@@ -6346,8 +6743,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_金牌影院",
@@ -6359,8 +6756,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_奇优动漫",
@@ -6372,8 +6769,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_粤漫动漫",
@@ -6385,8 +6782,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_jieyingshi",
@@ -6398,8 +6795,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_aigua",
@@ -6411,8 +6808,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_国外",
@@ -6424,8 +6821,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_偷乐",
@@ -6437,8 +6834,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_嗨皮",
@@ -6450,8 +6847,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_云端",
@@ -6463,8 +6860,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_云速",
@@ -6476,8 +6873,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_农牧",
@@ -6489,8 +6886,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_文才",
@@ -6504,8 +6901,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_4KAV",
@@ -6517,8 +6914,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "py_YYMP3",
@@ -6530,8 +6927,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "js_KTV歌厅",
@@ -6543,8 +6940,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "直播转点播",
@@ -6553,11 +6950,11 @@
       "api": "https://clun.top/lib/live2vod.js",
       "ext": "https://clun.top/lib/feimaolive.json",
       "jar": "https://clun.top/jar/xs.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "MiFun",
@@ -6569,8 +6966,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "CliCli",
@@ -6582,8 +6979,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "DouBan",
@@ -6592,11 +6989,11 @@
       "api": "csp_DouDouGuard",
       "ext": "",
       "jar": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "我的云盘",
@@ -6610,8 +7007,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "应用商店",
@@ -6620,11 +7017,11 @@
       "api": "csp_Market",
       "ext": "https://szyyds.cn/js/app.json",
       "jar": "https://cdn.jsdelivr.net/gh/gaotianliuyun/gao@master/jar/custom_spider.jar",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "爱奇艺",
@@ -6636,8 +7033,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_AListGuard",
@@ -6652,8 +7049,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "YGP",
@@ -6662,11 +7059,11 @@
       "api": "csp_YGPGuard",
       "ext": "",
       "jar": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "MTV1",
@@ -6678,8 +7075,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "剧圈",
@@ -6691,8 +7088,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "奥特",
@@ -6704,8 +7101,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "超全",
@@ -6714,11 +7111,11 @@
       "api": "csp_LiveGzGuard",
       "ext": "",
       "jar": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "看球",
@@ -6727,11 +7124,11 @@
       "api": "csp_KanqiuGuard",
       "ext": "",
       "jar": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "88",
@@ -6740,11 +7137,11 @@
       "api": "csp_Sir88Guard",
       "ext": "",
       "jar": "https://szyyds.cn/tv/x.jpg;md5;4ce29ce27eeff6a73a230dd92d98ba0c",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_YQKan",
@@ -6756,8 +7153,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "酷看",
@@ -6769,8 +7166,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "率率",
@@ -6782,8 +7179,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "星奇",
@@ -6795,8 +7192,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 2,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_Jianpian",
@@ -6808,8 +7205,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_MLYS",
@@ -6821,8 +7218,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "360",
@@ -6834,8 +7231,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_Duanju",
@@ -6847,8 +7244,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_Kanqiu",
@@ -6860,8 +7257,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "UpYun",
@@ -6873,8 +7270,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "Dovx",
@@ -6886,8 +7283,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "csp_trj",
@@ -6899,8 +7296,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "playerType": 1,
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "drpy_js_有声小说吧",
@@ -6909,11 +7306,11 @@
       "api": "http://xhztv.top/xhz/js/lib/drpy2.min.js",
       "ext": "http://xhztv.top/xhz/js/有声小说吧.js",
       "jar": "http://xhztv.top/xhz/Yoursmile.jar;md5;69DADB9A99A618EA9E2F4E2B92968E41",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": "2",
-      "category": []
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "drpy_js_JRKAN直播",
@@ -6922,20 +7319,11 @@
       "api": "http://xhztv.top/xhz/js/lib/drpy.min.js",
       "ext": "http://xhztv.top/xhz/js/JRKAN直播.js",
       "jar": "http://xhztv.top/xhz/Yoursmile.jar;md5;69DADB9A99A618EA9E2F4E2B92968E41",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "filterable": 0,
-      "playerType": 1,
-      "category": []
-    },
-    {
-      "key": "nav_av",
-      "name": "搜av资源站(12万部)",
-      "type": 1,
-      "api": "https://api.souavzyw.net/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
+      "category": [],
+      "changeable": 1
     },
     {
       "key": "速搜",
@@ -6946,52 +7334,8 @@
       "jar": "https://mpimg.cn/down.php/ea3f3847275323ad197029e185664fd9.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "hsckzy001",
-      "name": "黄色仓库",
-      "type": 1,
-      "api": "https://hsckzy001.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "sex8zy1",
-      "name": "杏吧资源",
-      "type": 1,
-      "api": "https://api.xgbbk8.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "jkunzy",
-      "name": "ikun资源",
-      "type": 1,
-      "api": "https://jkunzy.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "laosebizy",
-      "name": "老色皮资源",
-      "type": 1,
-      "api": "https://apilsbzy2.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "heiliao",
-      "name": "黑料资源",
-      "type": 1,
-      "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "filterable": 0,
+      "changeable": 1
     },
     {
       "key": "drpy_js_磁力熊搜索",
@@ -7000,7 +7344,7 @@
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
       "indexs": 1,
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/cilixiong.js",
-      "searchable": 0,
+      "searchable": 1,
       "quickSearch": 0,
       "changeable": 1,
       "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
@@ -7010,12 +7354,13 @@
       "name": "310直播",
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
-      "changeable": 0,
+      "changeable": 1,
       "style": {
         "type": "list"
       },
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/310直播.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "searchable": 1
     },
     {
       "key": "drpy_js_4KHDR",
@@ -7023,7 +7368,6 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/4khdr.js",
-      "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -7036,7 +7380,6 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/mp4us.js",
-      "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -7049,7 +7392,6 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/dygang.js",
-      "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -7065,7 +7407,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "searchable": 1
     },
     {
       "key": "drpy_js_xb6v",
@@ -7073,7 +7416,6 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/xb6v.js",
-      "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -7089,7 +7431,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "searchable": 1
     },
     {
       "key": "drpy_js_libvio",
@@ -7100,7 +7443,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "searchable": 1
     },
     {
       "key": "drpy_js_tzfile",
@@ -7111,7 +7455,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "searchable": 1
     },
     {
       "key": "drpy_js_dydhhy",
@@ -7122,7 +7467,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "searchable": 1
     },
     {
       "key": "drpy_js_97tvs",
@@ -7133,7 +7479,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "searchable": 1
     },
     {
       "key": "drpy_js_rrdyw",
@@ -7144,7 +7491,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "searchable": 1
     },
     {
       "key": "drpy_js_校长影视",
@@ -7155,7 +7503,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "searchable": 1
     },
     {
       "key": "drpy_js_yyetsp",
@@ -7166,7 +7515,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "searchable": 1
     },
     {
       "key": "drpy_js_奇妙搜[夸]",
@@ -7177,7 +7527,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "searchable": 1
     },
     {
       "key": "drpy_js_愛盤搜",
@@ -7188,7 +7539,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "searchable": 1
     },
     {
       "key": "drpy_js_趣盤搜",
@@ -7199,7 +7551,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "searchable": 1
     },
     {
       "key": "drpy_js_meow",
@@ -7210,13 +7563,14 @@
       "quickSearch": 1,
       "changeable": 1,
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
+      "searchable": 1
     },
     {
       "key": "lf_js_search",
       "name": "搜索",
       "type": 3,
-      "searchable": 0,
+      "searchable": 1,
       "changeable": 1,
       "quickSearch": 0,
       "filterable": 0,
@@ -7245,7 +7599,9 @@
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/ss直播.js",
       "timeout": 30,
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg23a94bb.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg23a94bb.jar",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "drpy_js_Missav",
@@ -7253,7 +7609,9 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/Missav.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg23a94bb.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg23a94bb.jar",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "drpy_js_玩偶姐姐",
@@ -7261,7 +7619,9 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/玩偶姐姐.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg23a94bb.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg23a94bb.jar",
+      "searchable": 1,
+      "changeable": 1
     },
     {
       "key": "drpy_js_朱古力",
@@ -7269,112 +7629,9 @@
       "type": 3,
       "api": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/lib/drpy2.min.js",
       "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/js/朱古力.js",
-      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg23a94bb.jar"
-    },
-    {
-      "key": "vnzyz.com",
-      "name": "💕越南(直连)",
-      "type": 1,
-      "api": "https://vnzyz.com/api.php/provide/vod/?ac=list",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/su-god/tvbox-config/master/jar/pg23a94bb.jar",
       "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "semaozy.com",
-      "name": "色猫(FQ)",
-      "type": 1,
-      "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "api.11bat.com",
-      "name": "成人15",
-      "type": 0,
-      "api": "http://api.11bat.com/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
-    },
-    {
-      "key": "gdlsp.com",
-      "name": "成人19",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
-    },
-    {
-      "key": "msnii.com",
-      "name": "成人20",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
-    },
-    {
-      "key": "xrbsp.com",
-      "name": "成人21",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
-    },
-    {
-      "key": "kxgav.com",
-      "name": "成人22",
-      "type": 0,
-      "api": "https://www.kxgav.com/api/xml.php",
-      "searchable": 1,
-      "recordable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "header": {
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
-        "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
-      }
-    },
-    {
-      "key": "pgxdy",
-      "name": "X色A",
-      "type": 1,
-      "api": "https://www.pgxdy.com/api/json.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
+      "changeable": 1
     }
   ],
   "parses": [
@@ -7727,11 +7984,6 @@
       "name": "ffzy",
       "type": 0,
       "url": "https://svip.ffzyplay.com/?url="
-    },
-    {
-      "name": "Json解析",
-      "type": 0,
-      "url": "https://json.parser.xyz/jsonp.html"
     },
     {
       "name": "m3u8",
